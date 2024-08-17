@@ -18,7 +18,7 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  gap: 1.5vmin;
+  gap: 1.6vmin;
 }
 
 .box {
@@ -39,4 +39,5 @@ body {
   color: #fff;
   border-radius: 1rem;
   border: none;
+  margin-top: 4vmin;
 }
